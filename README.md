@@ -37,7 +37,8 @@ Vulnerability #2: Cross Site Scripting (XSS)
 Vulnerability #1: Insecure Direct Object Reference
 ![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/IDOR%20-%20Red.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross Site Request Forgery
+![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/CSRF%20-%20RED-1.gif)
 
 
 ## Notes
