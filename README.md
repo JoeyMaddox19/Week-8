@@ -28,7 +28,8 @@ Vulnerability #2: Session Hijacking/Fixation
 Vulnerability #1: Password Enumeration
 ![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/Password%20Enumeration%20-%20Green.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross Site Scripting (XSS)
+![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/XSS%20-%20Green.gif)
 
 
 ## Red
