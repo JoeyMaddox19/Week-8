@@ -44,3 +44,5 @@ Vulnerability #2: Cross Site Request Forgery
 ## Notes
 
 Describe any challenges encountered while doing the work
+
+I thought the CSRF was supposed to be an actual form submitted (i.e. through a comment) rather than through a simple inspect. The TA had to help with that challenge. Everything else went relatively smoothly. 
