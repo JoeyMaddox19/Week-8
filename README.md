@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQL Injection
+Vulnerability #1: SQL Injection - Change the URL from ID=1 to ID=' 
 ![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/SQL%20-%20Blue.gif)
 
 Vulnerability #2: __________________
