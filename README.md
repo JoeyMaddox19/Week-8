@@ -19,7 +19,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: SQL Injection - Change the URL from ID=1 to ID=' to cause a failed database query 
 ![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/SQL%20-%20Blue.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
+![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/Session%20-%20Blue.gif)
 
 
 ## Green
