@@ -16,7 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: ![Alt Text](https://github.com/JoeyMaddox19/Codepath-Week-7/blob/master/Vuln_1.gif)
+Vulnerability #1: SQL Injection
+![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/SQL%20-%20Blue.gif)
 
 Vulnerability #2: __________________
 
