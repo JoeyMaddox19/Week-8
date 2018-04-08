@@ -25,7 +25,8 @@ Vulnerability #2: Session Hijacking/Fixation
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Password Enumeration
+![Alt Text](https://github.com/JoeyMaddox19/Week-8/blob/master/Password%20Enumeration%20-%20Green.gif)
 
 Vulnerability #2: __________________
 
